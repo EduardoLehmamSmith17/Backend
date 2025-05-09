@@ -161,4 +161,4 @@ C:\Users\dusmi\Desktop\projectSpotify\backend\.vs\projectSpotifyBackend\obj\Debu
 C:\Users\dusmi\Desktop\projectSpotify\backend\.vs\projectSpotifyBackend\obj\Debug\net9.0\projectSpotifyBackend.pdb
 C:\Users\dusmi\Desktop\projectSpotify\backend\.vs\projectSpotifyBackend\obj\Debug\net9.0\projectSpotifyBackend.genruntimeconfig.cache
 C:\Users\dusmi\Desktop\projectSpotify\backend\.vs\projectSpotifyBackend\obj\Debug\net9.0\ref\projectSpotifyBackend.dll
-C:\Users\dusmi\Desktop\projectSpotify\backend\.vs\projectSpotifyBackend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\dusmi\Desktop\projectSpotify\backend\.vs\projectSpotifyBackend\obj\Debug\net9.0\projectSpotifyBackend.sourcelink.json
