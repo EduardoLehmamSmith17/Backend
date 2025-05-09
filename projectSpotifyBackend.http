@@ -1,0 +1,6 @@
+@projectSpotifyBackend_HostAddress = http://localhost:5153
+
+GET {{projectSpotifyBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
